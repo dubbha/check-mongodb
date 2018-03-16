@@ -1,0 +1,24 @@
+{
+  "name": "check-mongodb",
+  "version": "1.0.0",
+  "description": "Tiny package to check the local monogdb installation",
+  "main": "check.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dubbha/check-mongodb.git"
+  },
+  "author": "Alex Dubovyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubbha/check-mongodb/issues"
+  },
+  "homepage": "https://github.com/dubbha/check-mongodb#readme"
+}
